@@ -8,6 +8,7 @@
 :zap: en la carrera, los lenguajes que se me han enseñado han sido el C#, PHP y SQL. Aún viendo un poco sobre Visual Basic y otros lenguajes de programación
 
 ##Proyectos actuales C#
+
 [![registro ventas](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/cyber%20sleuth.jpg)](https://github.com/Ramirez5034/Proyecto-Final-Control_de_Registro_de_Ventas)
 
 [Conexión a PostgreSql](https://github.com/Ramirez5034/PruebaPostgresql)
