@@ -1,5 +1,5 @@
 #Portafolio de GITHUB 
-![gifinicio](https://assets-blog.hostgator.mx/wp-content/uploads/2019/11/SQL.gif)
+![gifinicio](https://static.wixstatic.com/media/97b295_343224e0b87544f6b1e301fabbe07d6e~mv2.gif)
 
 
 
