@@ -1,4 +1,4 @@
-🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 
+🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨  
 ![gifinicio](https://static.wixstatic.com/media/97b295_343224e0b87544f6b1e301fabbe07d6e~mv2.gif)
 
 
@@ -10,7 +10,7 @@ Actualmente Estudiante del tecnólogico de Monclova
 
 Mi Nombre es Pablo Armando Ramírez Ortiz y eh aprendido programación principalmente en C# mientras aprendo distintos lenguajes tales como visual basic.
 
-:zap: en la carrera eh generado varios proyectos para el aprendizaje del lenguaje y la unión de varios programas. por lo tanto aquí va una lista 
+:zap: en la carrera eh generado varios proyectos para el aprendizaje del lenguaje y la unión de varios programas. por lo tanto aquí va una lista, Cliquea las imagenes para ir a sus respectivos trabajos
 
 🏦 #Registro de ventas C#
 
