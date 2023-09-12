@@ -1,4 +1,6 @@
 #¡BIENVENIDO A MI PORTAFOLIO DE GITHUB!
+
+
 ![gifinicio](https://static.wixstatic.com/media/97b295_343224e0b87544f6b1e301fabbe07d6e~mv2.gif)
 
 
@@ -9,15 +11,15 @@
 
 :zap: en la carrera, los lenguajes que se me han enseñado han sido el C#, PHP y SQL. Aún viendo un poco sobre Visual Basic y otros lenguajes de programación
 
-##Proyectos actuales C#
+#Registro de ventas C#
 
 [![Registro Ventas](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/Texto%20del%20p%C3%A1rrafo.png)](https://github.com/Ramirez5034/Proyecto-Final-Control_de_Registro_de_Ventas)
 
+#Conexiones a bases de datos c#
+
 [![Postgre](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/Postgre.png)](https://github.com/Ramirez5034/PruebaPostgresql)
-
-[Conexión a Mysql](https://github.com/Ramirez5034/ConexionMysql)
-
-[Conexión a Sql server](https://github.com/Ramirez5034/ConexionSql)
+[![conexion a Mysql](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/mysql.png)](https://github.com/Ramirez5034/ConexionMysql)
+[![conexion a Sql](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/SQL.png)](https://github.com/Ramirez5034/ConexionSql)
 
 ##Proyecto PHP
 
