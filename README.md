@@ -1,4 +1,4 @@
-🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 
+🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 🌆 ✨ 
 ![gifinicio](https://static.wixstatic.com/media/97b295_343224e0b87544f6b1e301fabbe07d6e~mv2.gif)
 
 
@@ -25,17 +25,21 @@ Mi Nombre es Pablo Armando Ramírez Ortiz y eh aprendido programación principal
 💻Programas con PHP
 
 ##Trabajos donde se utiliza php
+
 [![uso de php](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/php.png)](https://github.com/Ramirez5034/DESAROOLLO-APLICACIONES-WEB-UNIDAD-2)
 
 ##proyecto de php con base de datos
+
 [![Proyecto](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/Apache.png)](https://github.com/Ramirez5034/Proyecto-Desarrollo-web)
 
 🏬Lenguaje SQL
 
 ##Prácticas de bases de datos
+
 [![Practicas](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/sql%20c.png)](https://github.com/Ramirez5034/Practicas)
 
 ##Consultas de bases de datos
+
 [![Consultas](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/consulta.png)](https://github.com/Ramirez5034/Consultas_topicos_BD)
 
 
