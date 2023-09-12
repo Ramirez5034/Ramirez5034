@@ -9,9 +9,13 @@
 
 ##Proyectos actuales C#
 [![registro ventas](https://github.com/Ramirez5034/Ramirez5034/blob/main/Imagenes/cyber%20sleuth.jpg)](https://github.com/Ramirez5034/Proyecto-Final-Control_de_Registro_de_Ventas)
+
 [Conexión a PostgreSql](https://github.com/Ramirez5034/PruebaPostgresql)
+
 [Conexión a Mysql](https://github.com/Ramirez5034/ConexionMysql)
+
 [Conexión a Sql server](https://github.com/Ramirez5034/ConexionSql)
+
 ##Proyecto PHP
 
 
